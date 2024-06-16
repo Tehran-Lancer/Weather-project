@@ -1,7 +1,7 @@
 <p align='center'>
  <img src="https://tehranlancer.com/media/2023/06/logo_lancer_h-2-copy.png">
 </p>
-<h1 align='cenetr'>Weather Project</h1>
+<h1 align='center'>Weather Project</h1>
 <h3>Overview :</h3>
 <p>The Weather Project is a web-based application designed to provide weather information. The project includes HTML, CSS, and JavaScript files to create a user-friendly interface for displaying weather data.</p>
 
